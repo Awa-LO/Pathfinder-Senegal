@@ -12,8 +12,8 @@
 ## 📥 Installation  
 ### 1️⃣ Cloner le dépôt GitHub  
 
-git clone https://github.com/Awa-LO/Cheminement-Senegal.git  
-cd Cheminement-Senegal  
+git clone https://github.com/Awa-LO/Pathfinder-Senegal.git  
+cd Pathfinder-Senegal 
 
 ### 2️⃣ Installer les dépendances  
 
